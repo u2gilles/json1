@@ -71,6 +71,7 @@
       "description": "This is description about product 10",
       "discount": {
         "type": "shipping"
+      }
     }
   ],
   "reviews": [
